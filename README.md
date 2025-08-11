@@ -7,7 +7,7 @@ I love animals, and I want world peace :)
 
 
 
-- 🛠️ I’m currently working at [Seenons](https://seenons.com/en) as a software engineer(still feel free to reach out for job or freelance opportunities).
+- 🛠️ I’m currently working at [Seenons](https://seenons.com/en) as a software engineer(still feel free to reach out for job or freelance opportunities with urgency).
 - 📫 How to reach me: 1975ramanuj@gmail.com
 
 <!--
