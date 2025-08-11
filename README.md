@@ -1,0 +1,26 @@
+## Olá, I'm Roso/Ramanuj/agn1kobi ☘️ 👯‍♀️
+
+I work with Node.Js, Typescript, Vue.Js, Java, C, C#, Python, and I like to play around with Go.
+I'm currently on the hunt for a job, something to do with Java or C# or Node.Js, something in the Netherlands.
+
+I love animals, and I want world peace :)
+
+
+
+- 🛠️ I’m currently working at [Seenons](https://seenons.com/en) as a software engineer(Not for too long, feel free to reach out for job or freelance opportunities).
+- 📫 How to reach me: 1975ramanuj@gmail.com
+
+<!--
+**agn1kobi/agn1kobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
