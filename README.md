@@ -1,4 +1,4 @@
-## Olá, I'm Roso/Ramanuj/agn1kobi ☘️ 👯‍♀️
+## Olá, I'm Roso/Ramanuj ☘️ 👯‍♀️
 
 I work with Node.Js, Typescript, Vue.Js, Java, C, Python, and I like to play around with Go.
 I'm currently on the hunt for a job, something to do with Java, Go, or C# or Node.Js, something in the Netherlands.
