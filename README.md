@@ -1,7 +1,6 @@
 ## Olá, I'm Roso/Ramanuj ☘️ 👯‍♀️
 
-I work with Node.Js, Typescript, Vue.Js, Java, C, Python, PHP and I like to play around with Go.
-I'm currently on the hunt for a job, something to do with Java, Go, or C# or Node.Js, something in the Netherlands.
+I work with PHP, Node.Js, Typescript, Vue.Js, React.Js, Python. I've found that I cannot do side projects and I learn languages on the job with a good pairing partner. I'd like to learn Go next.
 
 I love animals, and I want world peace :)
 
