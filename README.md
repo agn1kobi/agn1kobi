@@ -6,7 +6,7 @@ I love animals, and I want world peace :)
 
 
 
-- 🛠️ I’m currently working at [Treehouse](https://treehouse.nl/) as a software engineer.
+- 🛠️ I’m currently open to software engineering opportunities.
 - 📫 How to reach me: 1975ramanuj@gmail.com
 
 <!--
